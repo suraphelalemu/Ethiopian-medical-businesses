@@ -1,0 +1,36 @@
+2025-07-14 16:25:20,200 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-07-14 16:25:53,271 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-07-14 16:26:28,592 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:26:28,593 - INFO - \u2705 Missing values filled.
+2025-07-14 16:26:28,597 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:26:28,598 - ERROR - \u274c Data cleaning error: name 'emoji' is not defined
+2025-07-14 16:28:02,027 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:28:02,029 - INFO - \u2705 Missing values filled.
+2025-07-14 16:28:02,033 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:28:02,034 - ERROR - \u274c Data cleaning error: name 'emoji' is not defined
+2025-07-14 16:38:24,627 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-07-14 16:38:32,151 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:38:32,153 - INFO - \u2705 Missing values filled.
+2025-07-14 16:38:32,159 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:38:32,159 - ERROR - \u274c Data cleaning error: name 'emoji' is not defined
+2025-07-14 16:38:33,873 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:38:33,874 - INFO - \u2705 Missing values filled.
+2025-07-14 16:38:33,877 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:38:33,877 - ERROR - \u274c Data cleaning error: name 'emoji' is not defined
+2025-07-14 16:38:52,823 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-07-14 16:39:00,438 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:39:00,438 - INFO - \u2705 Missing values filled.
+2025-07-14 16:39:00,442 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:39:00,443 - ERROR - \u274c Data cleaning error: name 'emoji' is not defined
+2025-07-14 16:45:03,971 - INFO - \U0001f680 Data Cleaning Log initialized successfully!
+2025-07-14 16:45:09,599 - INFO - \u2705 CSV file '../data/messages/scraped_messages.csv' loaded successfully.
+2025-07-14 16:45:44,434 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:45:44,434 - INFO - \u2705 Missing values filled.
+2025-07-14 16:45:44,441 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:45:44,448 - INFO - \u2705 Data cleaning completed successfully.
+2025-07-14 16:45:54,025 - INFO - \u2705 Date column formatted to datetime.
+2025-07-14 16:45:54,026 - INFO - \u2705 Missing values filled.
+2025-07-14 16:45:54,030 - INFO - \u2705 Text columns standardized.
+2025-07-14 16:45:54,036 - INFO - \u2705 Data cleaning completed successfully.
+2025-07-14 16:48:18,646 - ERROR - \u274c Error saving cleaned data: Cannot save file into a non-existent directory: '..\data\processed'
+2025-07-14 16:49:20,383 - INFO - \u2705 Cleaned data saved successfully to '../data/messages/cleaned_telegram_data.csv'.

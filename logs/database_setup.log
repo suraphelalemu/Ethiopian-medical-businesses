@@ -1,0 +1,6 @@
+2025-07-14 17:48:37,889 - INFO - \U0001f680 Database Setup Log initialized successfully!
+2025-07-14 17:48:38,014 - ERROR - \u274c Database connection failed: No module named 'psycopg2'
+2025-07-14 17:50:40,610 - INFO - \u2705 Successfully connected to the PostgreSQL database.
+2025-07-14 17:51:29,780 - INFO - \u2705 Table 'Medical_DataWarehouse' created successfully.
+2025-07-14 21:28:07,734 - INFO - \u2705 Successfully connected to the PostgreSQL database.
+2025-07-14 21:28:10,150 - INFO - \u2705 Table 'Medical_DataWarehouse' created successfully.
