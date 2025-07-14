@@ -1,0 +1,260 @@
+2025-07-12 16:14:28,611 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-12 16:14:30,597 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-12 16:14:57,552 - INFO - Phone migrated to 4
+2025-07-12 16:14:57,685 - INFO - Reconnecting to new data center 4
+2025-07-12 16:14:57,801 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-12 16:14:57,801 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-12 16:14:57,801 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:14:59,385 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:15:12,439 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:15:12,450 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:15:46,544 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:15:46,634 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:15:46,901 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:15:46,903 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:16:39,377 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:16:39,481 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:16:40,174 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:16:40,175 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:17:57,011 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:17:57,112 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:17:57,388 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:17:57,388 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:27:10,967 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:27:11,068 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:27:11,494 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:27:11,495 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:32:49,606 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:32:49,703 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:32:50,355 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:32:50,357 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:34:04,137 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:34:04,234 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:34:05,021 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 16:34:05,021 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-12 16:51:12,107 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 16:51:12,204 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 18:42:32,348 - WARNING - Server closed the connection: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-12 18:42:32,348 - INFO - Connection closed while receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-12 18:42:32,348 - INFO - Closing current connection to begin reconnect...
+2025-07-12 18:42:32,348 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 18:42:32,356 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-12 18:42:32,356 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10051] Connect call failed ('149.154.167.92', 443)
+2025-07-12 18:42:33,463 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 18:42:33,725 - WARNING - Error executing high-level request after reconnect: <class 'sqlite3.OperationalError'>: no such table: entities
+2025-07-14 14:03:37,124 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-14 14:03:38,551 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-14 14:04:00,990 - INFO - Phone migrated to 4
+2025-07-14 14:04:01,093 - INFO - Reconnecting to new data center 4
+2025-07-14 14:04:01,241 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-14 14:04:01,242 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-14 14:04:01,242 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-14 14:04:02,798 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-14 14:04:13,248 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-14 14:04:13,248 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-14 14:51:22,616 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-14 14:51:22,757 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-14 14:51:23,387 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-14 14:51:23,388 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-14 14:53:32,314 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-14 14:53:32,416 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-14 14:53:33,802 - INFO - \u2705 Scraped 100 messages from Doctors Ethiopia (DoctorsET)
+2025-07-14 14:53:34,258 - INFO - \u2705 Scraped 76 messages from CheMed (CheMed123)
+2025-07-14 14:53:34,678 - INFO - \u2705 Scraped 100 messages from Lobelia pharmacy and cosmetics (lobelia4cosmetics)
+2025-07-14 14:53:35,213 - INFO - \u2705 Scraped 100 messages from \u12e8\u1324\u1293 \u12c8\u130d - \u12e8\u1324\u1293 \u1218\u1228\u1303 (yetenaweg)
+2025-07-14 14:53:36,037 - INFO - \u2705 Scraped 100 messages from ETHIO-AMERICAN MEDICAL TRAININGS( CPD ) & HEALTH CONSULTANCY CENTER (EAHCI)
+2025-07-14 14:53:36,067 - INFO - Messages saved successfully!
+2025-07-14 14:53:36,597 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:37,081 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-02-10_12-23-06.jpg
+2025-07-14 14:53:37,093 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:37,930 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-02-02_08-58-52.jpg
+2025-07-14 14:53:37,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:38,435 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-02-01_08-59-37.jpg
+2025-07-14 14:53:38,436 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:38,925 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-31_09-19-53.jpg
+2025-07-14 14:53:38,936 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:39,620 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-30_09-45-25.jpg
+2025-07-14 14:53:39,621 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:40,587 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-27_07-18-40.jpg
+2025-07-14 14:53:40,589 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:41,044 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-26_18-27-53.jpg
+2025-07-14 14:53:41,045 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:41,875 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-23_10-39-20.jpg
+2025-07-14 14:53:41,876 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:42,716 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-17_08-43-12.jpg
+2025-07-14 14:53:42,717 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:43,448 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-16_13-41-35.jpg
+2025-07-14 14:53:43,449 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:44,136 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-16_10-13-42.jpg
+2025-07-14 14:53:44,138 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:44,493 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-16_09-26-09.jpg
+2025-07-14 14:53:44,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:44,888 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-13_12-48-47.jpg
+2025-07-14 14:53:44,889 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:45,652 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-13_09-44-14.jpg
+2025-07-14 14:53:45,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:46,082 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-06_16-06-21.jpg
+2025-07-14 14:53:46,093 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:46,795 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-06_09-31-17.jpg
+2025-07-14 14:53:46,796 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:47,556 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-06_06-05-01.jpg
+2025-07-14 14:53:47,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:48,247 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-04_05-58-02.jpg
+2025-07-14 14:53:48,248 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:48,841 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-03_17-49-48.jpg
+2025-07-14 14:53:48,843 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:49,469 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-03_05-48-34.jpg
+2025-07-14 14:53:49,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:49,859 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2023-01-02_07-02-55.jpg
+2025-07-14 14:53:49,861 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:50,442 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-30_15-45-35.jpg
+2025-07-14 14:53:50,444 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:51,089 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-28_17-02-08.jpg
+2025-07-14 14:53:51,091 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:51,737 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-28_06-31-50.jpg
+2025-07-14 14:53:51,739 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:52,374 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-27_17-06-32.jpg
+2025-07-14 14:53:52,387 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:52,787 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-23_06-26-15.jpg
+2025-07-14 14:53:52,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:53,258 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-22_06-40-25.jpg
+2025-07-14 14:53:53,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:53,613 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-22_03-11-26.jpg
+2025-07-14 14:53:53,626 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:54,063 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-21_15-13-27.jpg
+2025-07-14 14:53:54,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:54,842 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-20_17-25-05.jpg
+2025-07-14 14:53:54,842 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:55,549 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-20_11-28-59.jpg
+2025-07-14 14:53:55,550 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:56,169 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-20_07-41-33.jpg
+2025-07-14 14:53:56,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:56,558 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-16_12-21-01.jpg
+2025-07-14 14:53:56,559 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:56,938 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-13_05-55-18.jpg
+2025-07-14 14:53:56,939 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:57,342 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-09_12-28-53.jpg
+2025-07-14 14:53:57,344 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:58,217 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-09_04-09-49.jpg
+2025-07-14 14:53:58,229 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:58,633 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-07_06-43-48.jpg
+2025-07-14 14:53:58,636 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:59,133 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-05_05-57-22.jpg
+2025-07-14 14:53:59,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:53:59,514 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-04_12-35-18.jpg
+2025-07-14 14:53:59,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:00,038 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-02_13-44-41.jpg
+2025-07-14 14:54:00,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:00,795 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-02_06-06-12.jpg
+2025-07-14 14:54:00,796 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:01,191 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-12-01_06-47-22.jpg
+2025-07-14 14:54:01,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:01,559 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-11-30_06-31-44.jpg
+2025-07-14 14:54:01,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:01,996 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-11-29_07-43-06.jpg
+2025-07-14 14:54:01,997 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:02,349 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-11-22_08-15-47.jpg
+2025-07-14 14:54:02,350 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:02,950 - INFO - Downloaded image from https://t.me/CheMed123 - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_CheMed123_2022-11-15_11-51-16.jpg
+2025-07-14 14:54:03,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:03,592 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-55.jpg
+2025-07-14 14:54:03,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:03,770 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:03,771 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:04,136 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:04,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:04,909 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:04,910 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:05,713 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:05,714 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:06,119 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:06,120 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:07,325 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:07,326 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:07,631 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:07,632 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:08,071 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:08,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:08,613 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_09-25-54.jpg
+2025-07-14 14:54:08,614 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:09,025 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_05-10-51.jpg
+2025-07-14 14:54:09,027 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:09,521 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_05-10-51.jpg
+2025-07-14 14:54:09,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:09,697 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-14_05-10-51.jpg
+2025-07-14 14:54:09,698 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:10,141 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_16-46-41.jpg
+2025-07-14 14:54:10,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:10,534 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:10,535 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:10,734 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:10,735 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:10,910 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:10,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:11,102 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:11,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:11,282 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:11,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:11,518 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:11,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:11,724 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-02.jpg
+2025-07-14 14:54:11,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:12,132 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-01.jpg
+2025-07-14 14:54:12,133 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:12,466 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-01.jpg
+2025-07-14 14:54:12,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:12,662 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-13_13-07-01.jpg
+2025-07-14 14:54:12,662 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:13,079 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_14-38-49.jpg
+2025-07-14 14:54:13,090 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:13,566 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_14-36-37.jpg
+2025-07-14 14:54:13,568 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:13,758 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_14-36-03.jpg
+2025-07-14 14:54:13,758 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:14,201 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_05-43-53.jpg
+2025-07-14 14:54:14,202 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:14,413 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_05-43-52.jpg
+2025-07-14 14:54:14,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:14,879 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_05-43-52.jpg
+2025-07-14 14:54:14,880 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:15,147 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_05-43-52.jpg
+2025-07-14 14:54:15,148 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:15,330 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-12_05-43-52.jpg
+2025-07-14 14:54:15,330 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:15,921 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_07-12-05.jpg
+2025-07-14 14:54:15,922 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:16,180 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_07-12-05.jpg
+2025-07-14 14:54:16,181 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:16,607 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_07-12-05.jpg
+2025-07-14 14:54:16,608 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:16,938 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_07-12-05.jpg
+2025-07-14 14:54:16,939 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:17,113 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_04-00-30.jpg
+2025-07-14 14:54:17,113 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:17,410 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_04-00-29.jpg
+2025-07-14 14:54:17,411 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:18,164 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_04-00-29.jpg
+2025-07-14 14:54:18,165 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:19,149 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_04-00-29.jpg
+2025-07-14 14:54:19,150 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:19,399 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-11_04-00-29.jpg
+2025-07-14 14:54:19,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:19,559 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_14-50-22.jpg
+2025-07-14 14:54:19,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:19,743 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_14-48-47.jpg
+2025-07-14 14:54:19,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:20,206 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_14-40-02.jpg
+2025-07-14 14:54:20,207 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:20,384 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_14-40-02.jpg
+2025-07-14 14:54:20,385 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:20,536 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_08-42-12.jpg
+2025-07-14 14:54:20,537 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:20,730 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_08-42-12.jpg
+2025-07-14 14:54:20,731 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:20,952 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_08-42-12.jpg
+2025-07-14 14:54:20,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:21,272 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_08-42-12.jpg
+2025-07-14 14:54:21,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 14:54:21,535 - INFO - Downloaded image from https://t.me/lobelia4cosmetics - c:\Users\surap\OneDrive\Desktop\10Acadamy\Ethiopian medical businesses\data\images\_lobelia4cosmetics_2025-07-10_08-42-12.jpg
+2025-07-14 14:54:21,535 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-14 14:54:21,536 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
