@@ -1,0 +1,3 @@
+2025-07-16 08:49:40,814 - INFO - ✅ Logging setup complete.
+2025-07-16 08:50:46,965 - INFO - 64 total images available in ../data/images
+2025-07-16 08:51:12,156 - INFO - ✅ Splited the dataset into train and validation sets.
