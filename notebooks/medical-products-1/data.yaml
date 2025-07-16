@@ -1,0 +1,19 @@
+names:
+- cosmotic
+- food-package
+- food-supliment
+- formula-milk
+- lotion-moisture
+- medicine
+- mini-drop
+- pregnancy
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: medical-products
+  url: https://universe.roboflow.com/medical-products/medical-products/dataset/1
+  version: 1
+  workspace: medical-products
+test: ../test/images
+train: ../train/images
+val: ../valid/images
