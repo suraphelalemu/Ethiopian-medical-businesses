@@ -1,4 +1,4 @@
-numpy==2.2.2
+﻿numpy==2.2.2
 pandas==2.2.3
 pyaes==1.6.1
 pyasn1==0.6.1

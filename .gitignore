@@ -1,3 +1,5 @@
 myenv/
 data/
 _pycache__/
+.env/
+yolov5/
